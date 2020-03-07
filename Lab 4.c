@@ -1,10 +1,4 @@
-/*Levi Hazelwood
-CES 130
-9/12/19
-Lab 4
-The object of this program is to create a calculator that can
-perform one of nine specified functions including a function 
-of my choice */
+/*Levi Hazelwood*/
 
 #include<stdio.h>
 #include<math.h>
