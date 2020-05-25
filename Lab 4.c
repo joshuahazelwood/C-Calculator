@@ -13,7 +13,7 @@ float sumfunc (float add1, float add2){
 //This function subtracts two numbers from eachother
 float difffunc (float sub1, float sub2){
 		float difference = sub1 - sub2;
-		return difference;x
+		return difference;
 }
 //This function multiplies two numbers by eachother
 float prodfunc (float mult1, float mult2){
@@ -205,7 +205,7 @@ int main ()
 	//Executed when user wants to quit using calculator
 	if (choice == 10){
 	printf ("\n" "Bye bye");
-	system("pause");
+
 	}
 	return 0;
 }
